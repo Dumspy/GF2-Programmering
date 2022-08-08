@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/bin/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/FizzBuz/FizzBuzz/obj/Debug/netcoreapp3.1/FizzBuzz.genruntimeconfig.cache

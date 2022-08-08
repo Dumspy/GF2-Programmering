@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXVfLs1qAtWbZYV1txsMJTd4y4uEk1HH+NlKypNJvHg14ZjD/jyvpG4hBNK0yAL2O13Pr7e9poFXtOFSKHd9PQ==",
+  "success": true,
+  "projectFilePath": "/Users/dispy/Documents/Projects/GF2 Programmering/Opgave1/Index/Index.csproj",
+  "expectedPackageFiles": [
+    "/Users/dispy/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512"
+  ],
+  "logs": []
+}
