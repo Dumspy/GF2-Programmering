@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/bin/Debug/netcoreapp3.1/Opgave8.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/bin/Debug/netcoreapp3.1/Opgave8.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/bin/Debug/netcoreapp3.1/Opgave8.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/bin/Debug/netcoreapp3.1/Opgave8.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/bin/Debug/netcoreapp3.1/Opgave8.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave8/Opgave8/obj/Debug/netcoreapp3.1/Opgave8.genruntimeconfig.cache
