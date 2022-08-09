@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/bin/Debug/netcoreapp3.1/Opgave19.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/bin/Debug/netcoreapp3.1/Opgave19.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/bin/Debug/netcoreapp3.1/Opgave19.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/bin/Debug/netcoreapp3.1/Opgave19.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/bin/Debug/netcoreapp3.1/Opgave19.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave19/Opgave19/obj/Debug/netcoreapp3.1/Opgave19.genruntimeconfig.cache

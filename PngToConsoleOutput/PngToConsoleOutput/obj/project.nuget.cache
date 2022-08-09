@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/X4amZsVL6ojCQ13K6fpARaSi9akji/yGIAziW4cuOoAu+qyYTt0zUyl15ulQI6oG3JSG7SgUXp78IMvIgtkfg==",
+  "success": true,
+  "projectFilePath": "/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/PngToConsoleOutput.csproj",
+  "expectedPackageFiles": [
+    "/Users/dispy/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/dispy/.nuget/packages/sixlabors.imagesharp/2.1.3/sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "/Users/dispy/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/dispy/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -7,20 +7,19 @@ namespace Opgave13
         static void Main(string[] args)
         {
             var currentSelectedEur = true;
-            var enterPressed = false;
-            while (!enterPressed)
+            var waitingForEnter = true;
+            while (waitingForEnter)
             {
-                Console.WriteLine(currentSelectedEur ? "[EUR] : USD" : "EUR : [USD]");
-                var key = Console.ReadKey();
                 Console.Clear();
-                switch (key.Key)
+                Console.WriteLine(currentSelectedEur ? "[EUR] : USD" : "EUR : [USD]");
+                switch (Console.ReadKey().Key)
                 {
                     case ConsoleKey.LeftArrow:
                     case ConsoleKey.RightArrow:
                         currentSelectedEur = !currentSelectedEur;
                         break;
                     case ConsoleKey.Enter:
-                        enterPressed = true;
+                        waitingForEnter = false;
                         break;
                 }
             }

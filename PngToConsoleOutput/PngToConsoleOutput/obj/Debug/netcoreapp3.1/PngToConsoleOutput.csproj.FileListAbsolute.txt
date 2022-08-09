@@ -1,0 +1,17 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/PngToConsoleOutput.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/PngToConsoleOutput.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/PngToConsoleOutput.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/PngToConsoleOutput.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/PngToConsoleOutput.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.genruntimeconfig.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/SixLabors.ImageSharp.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.csproj.CopyComplete
+/Users/dispy/Documents/Projects/GF2 Programmering/PngToConsoleOutput/PngToConsoleOutput/obj/Debug/netcoreapp3.1/PngToConsoleOutput.csprojAssemblyReference.cache
