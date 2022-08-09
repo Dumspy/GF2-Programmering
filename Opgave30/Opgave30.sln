@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave30", "Opgave30\Opgave30.csproj", "{DB63FD01-1D8F-46A7-AD29-13648B301042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB63FD01-1D8F-46A7-AD29-13648B301042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB63FD01-1D8F-46A7-AD29-13648B301042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB63FD01-1D8F-46A7-AD29-13648B301042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB63FD01-1D8F-46A7-AD29-13648B301042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
