@@ -27,7 +27,7 @@ namespace Opgave13
             Console.WriteLine("Indtast beløb");
             var amount = double.Parse(Console.ReadLine());
             var rate = currentSelectedEur ? 7.44 : 7.31;
-            Console.WriteLine($"{amount} {(currentSelectedEur ? "euro" : "dollar")} er {amount * rate}kr");
+            Console.WriteLine("{0:N2} {1} er {2:N2}kr",amount,(currentSelectedEur ? "euro" : "dollar"),amount*rate);
         }
     }
 }
