@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/bin/Debug/netcoreapp3.1/Opgave47.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/bin/Debug/netcoreapp3.1/Opgave47.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/bin/Debug/netcoreapp3.1/Opgave47.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/bin/Debug/netcoreapp3.1/Opgave47.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/bin/Debug/netcoreapp3.1/Opgave47.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave47/Opgave47/obj/Debug/netcoreapp3.1/Opgave47.genruntimeconfig.cache

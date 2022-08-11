@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/bin/Debug/netcoreapp3.1/Opgave57.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/bin/Debug/netcoreapp3.1/Opgave57.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/bin/Debug/netcoreapp3.1/Opgave57.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/bin/Debug/netcoreapp3.1/Opgave57.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/bin/Debug/netcoreapp3.1/Opgave57.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Opgave57/Opgave57/obj/Debug/netcoreapp3.1/Opgave57.genruntimeconfig.cache

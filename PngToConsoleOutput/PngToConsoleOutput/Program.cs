@@ -27,7 +27,7 @@ namespace PngToConsoleOutput
         
         static void Main(string[] args)
         {
-            var image = Image.Load<Rgba32>("/Users/dispy/Downloads/test-3-2.png");
+            var image = Image.Load<Rgba32>("/Users/dispy/Downloads/test5-2.png");
             for (var y = 0; y < image.Height; y++)
             {
                 for (var x = 0; x < image.Width; x++)

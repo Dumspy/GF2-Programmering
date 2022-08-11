@@ -8,6 +8,7 @@ namespace Opgave13
         {
             var currentSelectedEur = true;
             var waitingForEnter = true;
+            Console.WriteLine("Naviger med pil højre venstre og enter for at gå videre");
             while (waitingForEnter)
             {
                 Console.Clear();
