@@ -10,11 +10,22 @@ namespace Opgave61_62
         {
             var path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory),"test.txt");
             startUp(path);
+            int children, adults;
+            do
+            {
+                Console.Clear();
+                printTitle();
+                printDate();
+                Console.WriteLine("Du kan maks bestille 10 af hver type billet");
+                Console.Write("Indtast mængde af børnebilletter: ");
+                children = int.Parse(Console.ReadLine());
+                Console.Write("Indtast mængde af voksenbilletter: ");
+                adults = int.Parse(Console.ReadLine());
+            } while (children>=10 || adults>=10);
+            Console.Clear();
             printTitle();
-            Console.Write("Indtast mængde af børnebilletter: ");
-            var children = int.Parse(Console.ReadLine());
-            Console.Write("Indtast mængde af voksenbilletter: ");
-            var adults = int.Parse(Console.ReadLine());
+            printDate();
+            
             var totalSeats = children + adults;
             if (await getSeats(path) < totalSeats)
             {
@@ -22,8 +33,32 @@ namespace Opgave61_62
                 return;
             }
 
-            var totalPrice = children * 30 + adults * 65;
-            Console.WriteLine("Din totalpris er: {0}", totalPrice);
+            var isMember = false;
+            var canContinue = false;
+            do
+            {
+                Console.Write("Er du medlem af klubbens foreningsgruppe? (J/N)");
+                switch (Console.ReadKey().Key)
+                {
+                    case ConsoleKey.J:
+                        isMember = true;
+                        canContinue = true;
+                        break;
+                    case ConsoleKey.N:
+                        canContinue = true;
+                        break;
+                }
+            } while (!canContinue);
+            Console.Clear();
+            printTitle();
+            printDate();
+            double totalPrice = children * 30 + adults * 65;
+            var discount = isMember ? totalPrice * 0.1 : 0;
+            totalPrice -= discount;
+            var totalPriceUsd = Math.Round(totalPrice / (625.45 / 100));
+            if(isMember)
+                Console.WriteLine("Da du er medlem af klubbens foreningsgruppe får du 10% rabat som svare til {0:N2} kr.", discount);
+            Console.WriteLine("Din totalpris er: {0:N2} eller {1:N2} usd", totalPrice, totalPriceUsd);
             Console.WriteLine("Tak for din bestilling");
             updateSeats(path, totalSeats);
         }
@@ -36,10 +71,17 @@ namespace Opgave61_62
         
         private static void printTitle()
         {
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.BackgroundColor = ConsoleColor.Yellow;
             Console.WriteLine("TEC Ballerup Stadion");
             Console.ResetColor();
+        }
+
+        private static void printDate()
+        {
+            var date = DateTime.Now;
+            Console.SetCursorPosition(Console.WindowWidth - date.ToString().Length, 0);
+            Console.WriteLine("{0} {1} {2}", date.DayOfWeek, date.Day, date.ToString("MMMM"));
         }
 
         private static async Task updateSeats(string path, int seats)

@@ -11,7 +11,7 @@ namespace Opgave26
             Console.WriteLine("Login indtast kodeord:");
             string kodeord = Console.ReadLine();
             
-            if (brugernavn != "admin" || kodeord != "1234")
+            if (brugernavn == "admin" && kodeord == "1234")
             {
                 Console.WriteLine("Du er logget ind");
             }

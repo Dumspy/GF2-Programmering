@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/bin/Debug/netcoreapp3.1/Eksammen.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/bin/Debug/netcoreapp3.1/Eksammen.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/bin/Debug/netcoreapp3.1/Eksammen.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/bin/Debug/netcoreapp3.1/Eksammen.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/bin/Debug/netcoreapp3.1/Eksammen.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/Eksammen/Eksammen/obj/Debug/netcoreapp3.1/Eksammen.genruntimeconfig.cache

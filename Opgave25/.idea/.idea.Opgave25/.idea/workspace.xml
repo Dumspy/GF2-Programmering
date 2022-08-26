@@ -21,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;SolutionBuilderGeneralOptionsPage&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Opgave25" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -58,6 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1660036007380</updated>
       <workItem from="1660036008469" duration="1792000" />
+      <workItem from="1660645221083" duration="26000" />
+      <workItem from="1660645446767" duration="1212000" />
     </task>
     <servers />
   </component>

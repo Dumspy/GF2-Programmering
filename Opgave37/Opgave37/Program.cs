@@ -6,17 +6,17 @@ namespace Opgave37
     {
         static void Main(string[] args)
         {
-            var answer = "faaborg";
-            var attempt = "";
-            var attempts = 0;
+            string answer = "faaborg";
+            string input = "";
+            int attempts = 0;
             
             Console.WriteLine("Gæt en by på fyn:");
             
             do
             {
-                attempt = Console.ReadLine().ToLower();
+                input = Console.ReadLine().ToLower();
                 attempts++;
-            }while(answer != attempt);
+            }while(answer != input);
             
             Console.WriteLine($"Du gættede rigtigt på {attempts} forsøg");
         }

@@ -7,7 +7,7 @@ namespace Opgave42
         static void Main(string[] args)
         {
             var drinks = new String[] { "Cola", "Fanta", "Vand", "Kaffe", "Te" };
-            var prices = new double[] { 1.50, 1.50, 1.00, 2.00, 2.00 };
+            var prices = new double[] { 21.50, 21.50, 12.00, 10.00, 8.00 };
             var currentMenuItem = 0;
             var waitingForEnter = true;
             do

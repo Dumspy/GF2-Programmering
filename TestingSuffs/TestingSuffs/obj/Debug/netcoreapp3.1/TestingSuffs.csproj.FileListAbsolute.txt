@@ -1,0 +1,12 @@
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.csprojAssemblyReference.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.AssemblyInfoInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.AssemblyInfo.cs
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.csproj.CoreCompileInputs.cache
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/bin/Debug/netcoreapp3.1/TestingSuffs.deps.json
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/bin/Debug/netcoreapp3.1/TestingSuffs.runtimeconfig.json
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/bin/Debug/netcoreapp3.1/TestingSuffs.runtimeconfig.dev.json
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/bin/Debug/netcoreapp3.1/TestingSuffs.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/bin/Debug/netcoreapp3.1/TestingSuffs.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.dll
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.pdb
+/Users/dispy/Documents/Projects/GF2 Programmering/TestingSuffs/TestingSuffs/obj/Debug/netcoreapp3.1/TestingSuffs.genruntimeconfig.cache

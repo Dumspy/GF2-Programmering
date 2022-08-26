@@ -21,14 +21,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "SolutionBuilderGeneralOptionsPage"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;SolutionBuilderGeneralOptionsPage&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Opgave24" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -58,11 +58,31 @@
       <option name="presentableId" value="Default" />
       <updated>1660033843092</updated>
       <workItem from="1660033850139" duration="1868000" />
+      <workItem from="1660644662512" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Opgave24/Program.cs</url>
+          <line>10</line>
+          <properties documentPath="$PROJECT_DIR$/Opgave24/Program.cs" initialLine="10" containingFunctionPresentation="method 'Main'">
+            <startOffsets>
+              <option value="273" />
+            </startOffsets>
+            <endOffsets>
+              <option value="300" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
